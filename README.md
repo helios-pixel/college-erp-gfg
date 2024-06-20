@@ -38,26 +38,20 @@ This is a comprehensive College Management System developed using Python (Django
 
 ## Tech Stack
 - Django
-- Ajax
-- jQuery
 - Bootstrap
-- JavaScript
-- Python
-- Owl Carousel
-- HTML
-- CSS
+- Javascript
+- HTML/CSS
 
-## Running the Project
+## Running the Project locally
 1. Ensure Python is installed on your system.
-2. Create a virtual environment (recommended): `pip install virtualenv`
-3. Clone or download this repository.
+2. Clone or download this repository.
 4. Navigate to the project directory.
-5. Create a new virtual environment: `virtualenv env`
+3. Create a virtual environment (recommended)
 6. Activate the virtual environment:
   - On Windows: `env\Scripts\activate`
   - On Unix or Linux: `source env/bin/activate`
 7. Install project dependencies: `pip install -r requirements.txt`
 8. Run the project: `python manage.py runserver`
 
-## Screenshots
-[Include relevant screenshots showcasing different parts of the application]
+
+
