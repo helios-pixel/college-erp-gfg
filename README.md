@@ -1,7 +1,7 @@
 # College Management System
 
 ## Project Summary
-This is a comprehensive College Management System developed using Python (Django) for educational purposes. The system provides a user-friendly interface and streamlines various administrative and academic processes within a college environment.
+This is a comprehensive College Management System developed using Python (Django) for educational purposes. The system provides a user-friendly interface and streamlines various administrative and academic processes within a college.
 
 ## Features
 
